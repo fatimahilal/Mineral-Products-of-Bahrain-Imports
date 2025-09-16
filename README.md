@@ -1,4 +1,4 @@
-# Bahrain-Mineral-Trade-Analysis
+# Bahrain Mineral Trade Analysis
 The analysis based on import and export data of Bahrain from 2020 to 2022.It highlights key financal indicators and trade balances to support strategic decision-making.
 # Features/Insights
 - Import and export values by commodity
